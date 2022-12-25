@@ -1,4 +1,4 @@
-# [pgslotfish](pgslotfish/imdex.md)
+# [pgslotfish](/pgslotfish)
 
 เริ่มต้นกับการประยุกต์ใช้ Markdown ไฟล์ [ต้นฉบับ](https://github.com/dev-suwonza123/MarkDown/) ทั้งหน้าเว็บเพจ หน้าเว็บไซต์นี้ถูกเขียนด้วยภาษาโปรแกรมที่ชื่อว่า Markdown.  
 
